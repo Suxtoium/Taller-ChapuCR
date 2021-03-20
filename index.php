@@ -8,5 +8,6 @@
 </head>
 <body>
     <input type="text">
+    <label for="">Hola mundo</label>
 </body>
 </html>
